@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar testes automatizados em uma aplicação 
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Appium
 - JUnit 5
 - Maven
